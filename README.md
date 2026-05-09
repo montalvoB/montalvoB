@@ -1,4 +1,4 @@
-![Brandon Montalvo](./banner_center.png)
+![Brandon Montalvo](./banner_center.jpg)
 
 ```
       ___           ___           ___       ___       ___     
